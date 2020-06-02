@@ -1,0 +1,1 @@
+wscript "batch_scripts\upload.vbs"

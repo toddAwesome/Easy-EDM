@@ -1,0 +1,3 @@
+function upload() {
+	eel.upload()
+}
